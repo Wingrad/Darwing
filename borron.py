@@ -1,4 +1,4 @@
-no = "Dayeling "
+nombre = "Pedro Roa "
 apellido = "Roa"
 nombre += "Maria "
 print(nombre + apellido)
